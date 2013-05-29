@@ -12,6 +12,12 @@
 2. CtrlP
 3. Pathogen
 4. Rails.vim
+5. tabular
+
+
+
+####Wiki
+[Align text with tabular](http://vimcasts.org/episodes/aligning-text-with-tabular-vim/)
 
 
 
