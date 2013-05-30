@@ -26,10 +26,10 @@
 
 ####Map Key or Hot Key
 
-ctrl+n -> 打开NerdTree
-ctrl+p -> 是用ctrlp快速检索文件
-q      -> 关闭NerdTree窗口
-C      -> 设置当前目录为显示的根目录
+* ctrl+n -> 打开NerdTree
+* ctrl+p -> 是用ctrlp快速检索文件
+* q      -> 关闭NerdTree窗口
+* C      -> 设置当前目录为显示的根目录
 
 
 
