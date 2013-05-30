@@ -32,6 +32,11 @@
 * C      -> 设置当前目录为显示的根目录
 
 
+####ScreenShot
+你们感受下
+![myvim](http://ww1.sinaimg.cn/large/6e8de9dbjw1e562z6d1ncj20z90pswly.jpg)
+
+
 
 ####How To Use 
 光标放到你要对齐参照的符号上，like:
