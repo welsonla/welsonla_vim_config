@@ -1,5 +1,10 @@
 ##This is my personal vim configuration
 
+####推荐使用
+[Anonymous Pro字体](http://www.marksimonson.com/fonts/view/anonymous-pro)
+
+
+
 
 ####Install It
 1. git clone git@github.com:welsonla/welsonla_vim_config.git ~/.vim
