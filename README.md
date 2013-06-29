@@ -48,3 +48,10 @@
 
 * :Tab/=  按=号对齐
 * :Tab/|
+
+
+####常用快捷键
+CTRL+x+o 关键字补齐
+
+
+thanks to @happypeter
