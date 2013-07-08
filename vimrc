@@ -12,3 +12,8 @@ let g:ctrlp_custom_ignore = {
   \ 'dir':  '\v[\/]\.(git)$',
   \ 'file': '\v\.(log|jpg|png|jpeg)$',
   \ }
+
+let g:Powerline_symbols = 'fancy'
+set rtp+={path_to_powerline}/powerline/bindings/vim
+set laststatus=2
+set noshowmode
