@@ -16,11 +16,14 @@
 
 
 ####PluginList
-1. NerdTree
-2. CtrlP
-3. Pathogen
-4. Rails.vim
+1. nerdTree
+2. ctrlP
+3. pathogen
+4. rails.vim
 5. tabular
+6. powerline
+7. snipMate
+8. syntastic
 
 
 
