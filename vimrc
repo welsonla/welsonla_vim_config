@@ -3,6 +3,14 @@ execute pathogen#infect()
 syntax on
 syntax enable
 
+" syntastic
+
+let g:syntastic_auto_loc_list=1
+let g:syntastic_check_on_open=1
+let g:syntastic_enable_signs=1
+
+
+set autochdir								 "自定切换到当前文件目录
 set tabstop=2                "设置tab键的宽度
 set shiftwidth=2             "换行时行间交错使用2个空格
 set autoindent               "自动对齐
@@ -18,11 +26,11 @@ filetype plugin on
 
 
 syntax enable
-set background=light
+set background=dark
 colorscheme solarized
 
 "MapKey
-map  <C-n>  :NERDTreeFind<CR>
+map  <C-n> :NERDTreeToggle <CR>
 
 "MarkDown
 let g:vim_markdown_folding_disabled=1
